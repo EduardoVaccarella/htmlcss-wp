@@ -98,7 +98,6 @@ a {
 .main2 {
     height: 360px;
     margin-bottom: 15px;
-    background-color: #0485FC;
 }
 
 .section-top .titolo {
@@ -134,7 +133,7 @@ a {
     display: inline-block;
 }
 
-.section .left, .section .middle, .section .right, .section-top {
+.section .left, .section .middle, .section .right {
     background-color: #ABCFE7;
     margin-bottom: 20px;
 }
@@ -149,10 +148,11 @@ a {
 
 .footer {
     height: 40px;
-    background-color: #8900FD;
+    text-align: center;
 }
 
 .header, .main, .footer {
     margin-bottom: 25px;
+    font-size: 11px;
 }
 
